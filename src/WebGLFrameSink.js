@@ -439,7 +439,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 			preferLowPowerToHighPerformance: true,
 			powerPreference: 'low-power',
 			// Don't try to use software GL rendering!
-			failIfMajorPerformanceCaveat: true,
+			// failIfMajorPerformanceCaveat: true,
 			// In case we need to capture the resulting output.
 			preserveDrawingBuffer: true
 		};
